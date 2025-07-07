@@ -20,7 +20,7 @@ When the button is pressed the corresponding LED turns on When released the LED 
 
 ## Code
 The code is written in Arduino  
-You can find it in the file: [`3buttons-3leds.ino`](./3buttons-3leds.ino)
+You can find it in the file: [`3buttons-3leds-code.ino`](./3buttons-3leds-code.ino)
 
 ## Project Image
 ![Project Image](./3buttons-3leds.jpg)
