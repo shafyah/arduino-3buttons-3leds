@@ -23,7 +23,7 @@ The code is written in Arduino
 You can find it in the file: [`3buttons-3leds-code.ino`](./3buttons-3leds-code.ino)
 
 ## Project Image
-![Project Image](./3buttons-3leds.jpg)
+![Project Image](./3buttons-3leds.png)
 
 ## Platform Used
 The project was built and tested on [Tinkercad Circuits](https://www.tinkercad.com/)
